@@ -1,7 +1,7 @@
 ### Instalar y usar
 
 ```bash
-cd ShopZone/ShopZone
+cd viviero/vivero
 ```
 
 ```bash
